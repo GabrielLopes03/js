@@ -1,0 +1,14 @@
+body{
+    font-size: 14pt;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+button{
+    font-size: 18pt;
+    color: #000000;
+    background-color: #c5c4c4;
+}
+button:hover{
+    background-color: #999797;
+    cursor: pointer;
+}
